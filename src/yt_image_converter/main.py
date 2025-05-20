@@ -25,5 +25,5 @@ def run_pipeline(video_id, executable_path):
 
     print("✅ Done. Reel saved to final_reel.mp4")
 
-run_pipeline("h9Z4oGN89MU",
+run_pipeline("zn2ukSnDqSg",
             "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome")
